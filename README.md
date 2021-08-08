@@ -7,7 +7,7 @@
 
 ## Background
 
-![Citi-Bikes](Images/Ecobici_03_2014_Mex_8171.jfif)
+![EcoBici](Images/Ecobici_03_2014_Mex_8171.jfif)
 Attribution: Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
 
 Congratulations on your new job! As the new lead analyst for the [Mexico City's EcoBici](https://www.ecobici.cdmx.gob.mx/) Program, you are now responsible for overseeing the largest bike sharing program in the Mexico. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
