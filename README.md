@@ -18,7 +18,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 We have downloaded monthly data (in csv format) for 24 months: july 2019 to june 2021, and used a simple Pyhton Pandas script to generate a single file csv.  The script can work any amount of files in the data folder.  The restriction is the local computer capacity.
 
-Github does not allow me to upload the final output so I uploaded it to Kaggle: [Output Database](https://www.kaggle.com/fernandonuez/ecobici-ciudad-de-mexico-julio-2019-a-junio-2021)
+Github does not allow me to upload the final output so it was stored in Kaggle: [Output Database](https://www.kaggle.com/fernandonuez/ecobici-ciudad-de-mexico-julio-2019-a-junio-2021)
 
 ## Task
 
