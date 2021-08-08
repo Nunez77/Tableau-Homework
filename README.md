@@ -1,4 +1,4 @@
-# Tableau Homework - Citi Bike Analytics
+# Tableau Homework - EcoBici Analytics
 
 ### Before You Begin
 
@@ -9,15 +9,15 @@
 
 ![Citi-Bikes](Images/Ecobici_03_2014_Mex_8171.jfif)
 
-Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
+Congratulations on your new job! As the new lead analyst for the [Mexico City's EcoBici](https://www.ecobici.cdmx.gob.mx/) Program, you are now responsible for overseeing the largest bike sharing program in the Mexico. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
-Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
+Since 2013, the EcoBici Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [EcoBici Data](https://www.citibikenyc.com/system-data) webpage.
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so your first task on the job is to build a set of data reports to provide the answers.
 
 ## Task
 
-**Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.** 
+**Your task in this assignment is to aggregate the data found in the EcoBici Trip History Logs and find two unexpected phenomena.** 
 
 **Design 2-5 visualizations for each discovered phenomena (4-10 total). You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods.** 
 
@@ -101,7 +101,7 @@ Your final product will be assessed on the following metrics:
 * While utilizing all of the data may seem like a nice power play, consider the time-course in making your analysis. Is data from 2013 the most relevant for making bike replacement decisions today? Probably not. Don't let overwhelming data fool you. Ground your analysis in common sense.
 * Remember, data alone doesn't "answer" anything. You will need to accompany your data visualizations with clear and directed answers and analysis.
 * As is often the case, your clients are asking for a LOT of answers. Be considerate about their need-to-know and the importance of not "cramming in everything". Of course, answer each question, but do so in a way that is organized and presentable.
-* Since this is a project for the city, spend the appropriate time thinking through decisions on color schemes, fonts, and visual story-telling. The Citi Bike program has a clear visual footprint. As a suggestion, look for ways to have your data visualizations match their aesthetic tones.
+* Since this is a project for the city, spend the appropriate time thinking through decisions on color schemes, fonts, and visual story-telling. The EcoBici program has a clear visual footprint. As a suggestion, look for ways to have your data visualizations match their aesthetic tones.
 * Pay attention to labels. What exactly is "time duration"? What's the value of "age of birth"? You will almost certainly need calculated fields to get what you need.
 * Keep a close eye for obvious outliers or false data. Not everyone who signs up for the program is answering honestly.
 * In answering the question of "why" a phenomenon is occurring, consider adding other pieces of information on socioeconomic or other geographic data. Tableau has a map "layer" feature that you may find handy.
@@ -111,7 +111,7 @@ Your final product will be assessed on the following metrics:
 
 ## Rubric
 
-[Unit 20 Rubric - Tableau Homework - Citi Bike Analytics](https://docs.google.com/document/d/135gKIRxE8XB9XGmXcGORGpmJAeGdh1qz6ogh8na6P-o/edit?usp=sharing)
+[Unit 20 Rubric - Tableau Homework - EcoBici Analytics](https://docs.google.com/document/d/135gKIRxE8XB9XGmXcGORGpmJAeGdh1qz6ogh8na6P-o/edit?usp=sharing)
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
