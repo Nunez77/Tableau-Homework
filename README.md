@@ -2,7 +2,7 @@
 
 ### Before You Begin
 
-* This assignment is saved in my Tableau Public account rather than GitHub. 
+* This assignment is saved in my Tableau Public account: 
   https://public.tableau.com/app/profile/fernando.n8586/viz/20TableauHomework
 
 ## Background
@@ -12,7 +12,7 @@ Attribution: Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 3.0 <https://creati
 
 Congratulations on your new job! As the new lead analyst for the [Mexico City's EcoBici](https://www.ecobici.cdmx.gob.mx/) Program, you are now responsible for overseeing the largest bike sharing program in the Mexico. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
-Since 2013, the EcoBici Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [EcoBici Data](https://www.citibikenyc.com/system-data) webpage.
+Since 2010, the EcoBici Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [EcoBici Data](https://www.ecobici.cdmx.gob.mx/es/informacion-del-servicio/open-data) webpage.
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so your first task on the job is to build a set of data reports to provide the answers.
 
