@@ -2,8 +2,7 @@
 
 ### Before You Begin
 
-* This assignment is saved in my Tableau Public account: 
-  https://public.tableau.com/app/profile/fernando.n8586/viz/20TableauHomework
+* This assignment is saved in my [Tableau Public Account](https://public.tableau.com/views/EcobiciPerformanceReport/Bikedashbord?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Background
 
@@ -16,7 +15,7 @@ Since february of 2010, the EcoBici Program has implemented a robust infrastruct
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so your first task on the job is to build a set of data reports to provide the answers.
 
-We have downloaded monthly data (in csv format) for 24 months: july 2019 to june 2021, and used a simple Pyhton Pandas script to generate a single file csv.  The script can work any amount of files in the data folder.  The restriction is the local computer capacity.
+You have downloaded monthly data (in csv format) for 24 months: july 2019 to june 2021, and used a simple Pyhton Pandas script to generate a single file csv.  The script can work any amount of files in the data folder.  The restriction is the local computer capacity.
 
 Github does not allow me to upload the final output so it was stored in Kaggle: [Output Database](https://www.kaggle.com/fernandonuez/ecobici-ciudad-de-mexico-julio-2019-a-junio-2021)
 
