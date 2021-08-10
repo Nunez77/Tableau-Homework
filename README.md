@@ -48,7 +48,7 @@ Github does not allow me to upload the final output so it was stored in Kaggle: 
 * Use your visualizations (does not have to be all of them) to design a dashboard for each phenomena.
 * The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring. 
 
-![Image of Tableau Dashboard](Images/dashboard.png)
+![Image of Tableau Dashboard](Images/bike_dashboard.png)
 
 **City officials would also like to see one of the following visualizations:**
 
